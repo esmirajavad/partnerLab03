@@ -45,7 +45,7 @@ The card view rotates based on state:
 
 PROJECT STRUCTURE:
 
-PartnerLab03/
+PartnerLab03
 
 ├─ ContentView.swift        # View (UI, grid, title animations)
 
@@ -76,4 +76,10 @@ AUTHORS:
 
 Esmira Babayeva, Nagihan Tokul
 
-CIS137 iOS/Swift Programming — Instructor: Hellen Pacheco — Nov 09, 2025
+INSTRUCTOR: 
+
+Hellen Pacheco
+
+CIS137 iOS/Swift Programming 
+
+Nov 09, 2025
