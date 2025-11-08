@@ -23,7 +23,7 @@ Interactive title (bounce + color change using two timed spring animations)
 
 
 
-How the flip works
+HOW THE FLIP WORKS:
 
 Tap a card:
 
@@ -43,7 +43,8 @@ The card view rotates based on state:
 
 
 
-Project Structure
+PROJECT STRUCTURE:
+
 PartnerLab03/
 ├─ ContentView.swift        # View (UI, grid, title animations)
 ├─ FlowerMemoryGame.swift   # ViewModel (ObservableObject)
@@ -53,13 +54,13 @@ PartnerLab03/
 
 
 
-Requirements
+REQUIREMENTS:
 
 Xcode 15+
 
 iOS 17+ (SwiftUI)
 
-Run
+RUN:
 
 Open the project in Xcode.
 
@@ -67,7 +68,7 @@ Select an iOS Simulator (or device).
 
 Build & run.
 
-Authors
+AUTHORS:
 
 Esmira Babayeva, Nagihan Tokul
 
