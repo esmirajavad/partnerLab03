@@ -46,9 +46,13 @@ The card view rotates based on state:
 PROJECT STRUCTURE:
 
 PartnerLab03/
+
 ├─ ContentView.swift        # View (UI, grid, title animations)
+
 ├─ FlowerMemoryGame.swift   # ViewModel (ObservableObject)
+
 ├─ MemoryGame.swift         # Model (Card, deck, choose logic)
+
 └─ Assets.xcassets/         # flower1 … flower12 images
 
 
